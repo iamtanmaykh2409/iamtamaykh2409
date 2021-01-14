@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtanmaykh2409&label=Profile%20views&color=0e75b6&style=flat" alt="iamtanmaykh2409" /> </p> -->
 
-- 🔭 I’m currently working as [Freelancing](https://www.fiverr.com/share/NWRjDN)
+- 🔭 I’m currently working as [Freelancer](https://www.fiverr.com/share/NWRjDN)
 
 - 🌱 I’m currently learning **Everything**
 
@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmayk85216465" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tanmayk85216465" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khandelwaltanmay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khandelwaltanmay" height="30" width="40" /></a>
-<a href="https://fb.com/tanmaya.khandelwal.399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tanmaya.khandelwal.399" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_tanmaykh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_tanmaykh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itstanmaykhandelwal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khandelwaltanmay" height="30" width="40" /></a>
+<a href="https://www.facebook.com/itstanmaykhandelwal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tanmaya.khandelwal.399" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itstanmaykhandelwal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_tanmaykh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
