@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtanmaykh2409&label=Profile%20views&color=0e75b6&style=flat" alt="iamtanmaykh2409" /> </p> -->
 
-- 🔭 I’m currently working as [Freelancer](https://www.fiverr.com/share/NWRjDN)
+- 🔭 I’m currently working as Frontend Developer
 
 - 🌱 I’m currently learning **Everything**
 
